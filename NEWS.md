@@ -1,3 +1,7 @@
-# mpitbR 1.0.0
+# mpitbR 1.0.1
 
-* Initial CRAN submission.
+* This is the first release of `mpitbR` package. 
+
+# mpitbR 1.0.1 (2024-10-27)
+
+* Add a vignette explaining the basic usage of the package
